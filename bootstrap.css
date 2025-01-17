@@ -5870,3 +5870,6 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 
+tr.spaceUnder>td {
+  padding-bottom: 1em;
+}
